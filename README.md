@@ -10,7 +10,7 @@ Probemos que funciona.
 
 * En modo edición, escribe tus nombres y apellidos, sustituyendo los puntos suspensivos que verás a continuación por tu respuesta.
 
-  * Tu respuesta aquí: ...
+  * Tu respuesta aquí: Wilnellia Fabian
   
 * Al finalizar, ve al fondo y presiona `Commit changes`.
 
